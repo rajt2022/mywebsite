@@ -1,0 +1,1 @@
+document.getElementById("welcomeBtn").addEventListener("click",()=>alert("Welcome to My Website!"));
